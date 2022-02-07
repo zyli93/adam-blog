@@ -1,19 +1,19 @@
-title: 李科学生 - EnLIneering
+title: 李工学生 - EnLIneering
 email: purillmit+blog@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  李科学生，聊聊技术和生活！EnLIneering, funny stuff about tech & life!
+  李工学生，聊聊技术和生活！EnLIneering, funny stuff about tech & life!
 domain: zyli93.github.io
 permalink: ':title/'
 # baseurl: "/adam-blog" # the subpath of your site, e.g. /blog
 url: "https://zyli93.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: 李科学生 # add your name
+author: 李工学生 # add your name
 author-pic: face.jpeg
-about-author: 欢迎来到李科学生，一起聊聊技术和生活！ Welcome to EnLIneering Blog about tech and life!
+about-author: 欢迎来到李工学生，一起聊聊技术和生活！ Welcome to EnLIneering Blog about tech and life!
 about-author-long: Welcome! My name is 李科学生. I'm a engineering guy hanging around high tech industry & academia. 
   Nice to meet you all! Feel free to reach out for any interesting stuff! 
-  大家好，这里是李科学生的博客，本人混迹科技领域产学研，欢迎有空聊聊！
+  大家好，这里是李工学生的博客，本人混迹科技领域产学研，欢迎有空聊聊！
   
   (You may wonder WTH is the old homepage. It's still there. Just click on the little earth below!)
 

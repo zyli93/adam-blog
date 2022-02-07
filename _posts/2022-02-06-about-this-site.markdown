@@ -9,6 +9,14 @@ author: 小李
 comments: false
 ---
 
-# Welcome!
+# Welcome! 欢迎来到本站！
 
-欢迎来到本站
+测试文本，正式文本敬请期待！
+
+$\frac{1}{2}$
+
+```python
+import whatIsThis
+
+print("hello world")
+```

@@ -14,15 +14,16 @@ about-author: 欢迎来到李科学生，一起聊聊技术和生活！ Welcome 
 about-author-long: Welcome! My name is 李科学生. I'm a engineering guy hanging around high tech industry & academia. 
   Nice to meet you all! Feel free to reach out for any interesting stuff! 
   大家好，这里是李科学生的博客，本人混迹科技领域产学研，欢迎有空聊聊！
+  
   (You may wonder WTH is the old homepage. It's still there. Just click on the little earth below!)
 
 # Contact links
 email: purillmit+blog@gmail.com # Add your Email address
 # phone: # Add your Phone number
-website: zyli93.github.io # Add your website, do not add http://
+website: zyli93.github.io/oldsite # Add your website, do not add http://
 linkedin: zeyu-li-ucla # Add your Linkedin handle
 github: zyli93 # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+# twitter: '@artemsheludko_' # Add your Twitter handle
 # facebook: # Add your Facebook handle
 instagram: 'zyli93' # Add your Instagram handle
 # pinterest: # Add your Pinterest handle
